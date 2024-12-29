@@ -54,6 +54,9 @@ You can install this project using PyPI:
 $ pip install auto-py-to-exe
 ```
 
+> [!WARNING]
+> **For Python 3.13+ users**: Auto Py To Exe uses <kbd>eel</kbd> which uses <kbd>cx_Freeze</kbd>. <kbd>cx_Freeze</kbd> uses <kbd>msilib</kbd>, which was removed in Python 3.13.
+
 Then to run it, execute the following in the terminal:
 
 ```
