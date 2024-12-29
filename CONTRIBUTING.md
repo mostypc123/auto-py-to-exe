@@ -41,6 +41,8 @@ If auto-py-to-exe doesn't do something you need or want it to do:
 
 Please provide as much context as you can about what you're running into and be clear about why existing features and alternatives would not work for you.
 
+_An .exe version of this app itself won't be released. Check [this issue](https://github.com/brentvollebregt/auto-py-to-exe/issues/267) to learn why._
+
 ## Pull Requests
 
 ### A New Feature / Change to an Existing Feature
